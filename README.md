@@ -14,4 +14,4 @@ Thrive talk was created by using:
 
 [Figma design](https://www.figma.com/file/aHd2rHMrnzDXhowLuIQjIyVQ/ThriveTalk-Landing-Page?node-id=0%3A1)
 
-[DEMO LINK](https://Ostapiuss.github.io/Thrive_talk/)
+[DEMO LINK](https://Ostapiuss.github.io/Thrive__Talk/)
